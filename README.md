@@ -56,6 +56,11 @@
       align-items: center;
       gap: 10px;
     }
+    .letter {
+      font-size: 24px;
+      font-weight: bold;
+      color: white;
+    }
     .letter-box {
       display: flex;
       flex-direction: column;
@@ -64,28 +69,17 @@
       width: 120px;
       height: 120px;
       border: 2px solid #fff;
-      font-size: 20px;
+      font-size: 18px;
       background-color: rgba(0, 0, 0, 0.7);
       color: #fff;
       border-radius: 10px;
       font-weight: bold;
       box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
     }
-    .letter {
-      font-size: 24px;
-      color: #fff;
-      margin-bottom: 10px;
-    }
-    .name-box {
-      font-size: 14px;
-      text-align: center;
-      color: #fff;
-    }
   </style>
 </head>
 <body>
 
-  <!-- زر للدخول إلى سيرفر ديسكورد -->
   <a href="https://discord.gg/Qgra58X5" class="discord-btn" target="_blank">
     Event Discord
   </a>
@@ -93,80 +87,88 @@
   <h1 style="color: white;">سجل الفرق</h1>
   
   <p class="intro">
-    في هذه الصفحة، كل حرف يعبر عن اسم الفرق وبجانبه اسماء الاعضاء
+    في هذه الصفحة، كل حرف يعبر عن اسم الفرق وفريقه داخل المربع.
   </p>
 
   <div class="letter-container">
     <div class="group-box">
       <div class="letter">R</div>
-      <div class="letter-box">
-        <div class="name-box">Helium</div>
-        <div class="name-box">Balo6a</div>
-      </div>
+      <div class="letter-box">Helium<br>Balo6a</div>
     </div>
 
     <div class="group-box">
       <div class="letter">G</div>
-      <div class="letter-box">
-        <div class="name-box">iBmPro</div>
-        <div class="name-box">M7mdomn</div>
-      </div>
+      <div class="letter-box">iBmPro<br>M7mdomn</div>
     </div>
 
     <div class="group-box">
       <div class="letter">B</div>
-      <div class="letter-box">
-        <div class="name-box">Kamal</div>
-        <div class="name-box">Talalxr</div>
-      </div>
+      <div class="letter-box">Kamal<br>Talalxr</div>
     </div>
 
     <div class="group-box">
       <div class="letter">N</div>
-      <div class="letter-box">
-        <div class="name-box">Duck</div>
-        <div class="name-box">Evr</div>
-      </div>
+      <div class="letter-box">Duck<br>Evr</div>
     </div>
 
     <div class="group-box">
       <div class="letter">M</div>
-      <div class="letter-box">
-        <div class="name-box">Topeck</div>
-        <div class="name-box">Freekill</div>
-      </div>
+      <div class="letter-box">Topeck<br>Freekill</div>
     </div>
 
     <div class="group-box">
       <div class="letter">T</div>
-      <div class="letter-box">
-        <div class="name-box">Mount</div>
-        <div class="name-box">M7md (غليص)</div>
-      </div>
+      <div class="letter-box">Mount<br>M7md (غليص)</div>
     </div>
 
     <div class="group-box">
       <div class="letter">L</div>
-      <div class="letter-box">
-        <div class="name-box">Ahmed Aonnx</div>
-        <div class="name-box">Yasaw</div>
-      </div>
+      <div class="letter-box">Ahmed Aonnx<br>Yasaw</div>
     </div>
 
     <div class="group-box">
       <div class="letter">O</div>
-      <div class="letter-box">
-        <div class="name-box">Aiko</div>
-        <div class="name-box">FKACE</div>
-      </div>
+      <div class="letter-box">Aiko<br>FKACE</div>
     </div>
 
     <div class="group-box">
       <div class="letter">Y</div>
-      <div class="letter-box">
-        <div class="name-box">vOliver99</div>
-        <div class="name-box">O5u.</div>
-      </div>
+      <div class="letter-box">vOliver99<br>O5u.</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">X</div>
+      <div class="letter-box">MohamedBR<br>RaoufDz</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">Z</div>
+      <div class="letter-box">Sinko194<br>Voider</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">F</div>
+      <div class="letter-box">M7meddxu<br>Rebotac</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">A</div>
+      <div class="letter-box">Mohtada Refat<br>Fhad Al King</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">C</div>
+      <div class="letter-box">MOD MASTER<br>ملهم</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">U</div>
+      <div class="letter-box">Fedox<br>Yasserxp</div>
+    </div>
+
+    <div class="group-box">
+      <div class="letter">U</div>
+      <div class="letter-box">Xxhemaxc<br>iGamerzxo</div>
     </div>
   </div>
 
