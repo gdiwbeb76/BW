@@ -167,7 +167,7 @@
     </div>
 
     <div class="group-box">
-      <div class="letter">U</div>
+      <div class="letter">u</div>
       <div class="letter-box">Xxhemaxc<br>iGamerzxo</div>
     </div>
   </div>
