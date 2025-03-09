@@ -153,7 +153,7 @@
 
     <div class="group-box">
       <div class="letter">A</div>
-      <div class="letter-box">Mohtada Refat<br>Fhad Al King</div>
+      <div class="letter-box">Mohtada Refat<br>solowarz</div>
     </div>
 
     <div class="group-box">
